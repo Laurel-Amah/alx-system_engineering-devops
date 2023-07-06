@@ -1,0 +1,4 @@
+cd /tmp/
+mkdir my_first_directory
+cd /my_first_directory
+

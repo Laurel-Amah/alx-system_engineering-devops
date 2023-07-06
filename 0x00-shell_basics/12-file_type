@@ -1,0 +1,4 @@
+cd /tmp
+touch iamafile
+file -f iamafile
+
