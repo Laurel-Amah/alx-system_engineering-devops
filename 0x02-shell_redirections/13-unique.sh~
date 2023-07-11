@@ -1,0 +1,7 @@
+read -p "Enter word: " word0
+read -p "Enter word: " word1
+read -p "Enter word: " word2
+echo "$word0";"word1";"word2" >> words
+EOF
+EOF
+cat word sort |uniq -u
